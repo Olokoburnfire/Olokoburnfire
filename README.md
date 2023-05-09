@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/Olokoburnfire">
     <img src="https://github.com/Olokoburnfire/Olokoburnfire/blob/main/Assets/Header.png" alt="Olokodana's banner"/>
   </a>
-  <h4> (Open for Hiring)</h4>
+  <h4> (Open for Hiring)</h4> 
 </div>
 
 <!--- Social Media --->
