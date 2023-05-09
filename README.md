@@ -51,11 +51,19 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+ 
+ <!-- Github Profile Trophy -->
+ <hr>
+ <h2 align="center"> 🔭 Github Profile Trophy</h2>
+ <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Olokoburnfire&theme=darkhub&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+
 <!-- Github Stats -->
 <hr>
 <h2 align="center"> 🔭 Current Stats</h2>
 <div align="center">
-  
+   
  ![AbdulKabir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Olokoburnfire&theme=rogue)
     
  ![AbdulKabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olokoburnfire&show_icons=true&theme=city_lights)
