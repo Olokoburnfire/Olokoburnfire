@@ -1,6 +1,6 @@
 <!--- Banner --->
 
-[![AbdulKabir's GitHub Banner](./Assets/2023_05_02_12_52_IMG_7677.JPG)](https://github.com/Olokoburnfire)
+[![AbdulKabir's GitHub Banner](./Assets/Intro Video .gif)](https://github.com/Olokoburnfire)
 <!-- <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>-->
