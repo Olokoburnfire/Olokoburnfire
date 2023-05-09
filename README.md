@@ -1,52 +1,68 @@
+<!---
+Olokoburnfire/Olokoburnfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <!--- Banner --->
-
-[![AbdulKabir's GitHub Banner](./Assets/Intro Video .gif)](https://github.com/Olokoburnfire)
-<!-- <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>-->
+<div align="center">
+  <a href="https://github.com/Olokoburnfire">
+    <img src="https://github.com/Olokoburnfire/Olokoburnfire/blob/main/Assets/Header.png" alt="Olokodana's banner"/>
+  </a>
+  <h4> (Open for Hiring)</h4>
+</div>
 
 <!--- Social Media --->
 <p align="center">
-  <h4 align="center"> (Open for Hiring)</h4>
   <!--- LinkedIn --->
-  <a href="https://linkedin.com/in/olokodanaabdulkabir">
+  <a href="https://linkedin.com/in/olokodanaabdulkabir" target="blank">
     <img src="https://img.shields.io/badge/AbdulKabir-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
-  <!--- Twitter --->
-  <a href="https://twitter.com/oloko_burn_fire">
-    <img src="https://img.shields.io/badge/-@AbdulKabir-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+ <!--- Twitter --->
+ <a href="https://twitter.com/oloko_burn_fire" target="blank">
+   <img src="https://img.shields.io/badge/-@AbdulKabir-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+ </a>
+  <!--- Instagram --->
+ <a href="https://www.instagram.com/__olokoburnfire__/" target="blank">
+   <img src="https://img.shields.io/badge/-@AbdulKabir-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a>
 </p>
 
 <!--- About Me  --->
 <p align="left">
-  Hey there,
-  
-  I'm AbdulKabir, a front Web Developer based in Lagos NG, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to learn new technologies. I'm Currently learning React.js, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about **Anything Web Development Related**.
+  I'm AbdulKabir, a front Web Developer based in Lagos NG, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to learn new technologies. I'm Currently learning React.js, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about <b>Anything Web Development Related</b>.
       <!-- Want to know more about me?  [Check out my portfolio](https://www.abdulfarhan.com) -->
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Olokoburnfire" alt="https://github.com/Olokoburnfire"  align="center"/>
 </p>
+<!-- Tech Stack -->
+<hr>
+<h2 align="center"> 🔭 Current Stack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <br><br>
+  <p>Html, Css, Javascript, TailwindCSS, ChakraUI, MaterialUI, React, Git, Github, Formik, Yup.</p>
+</div>
+<!-- Github Stats -->
+<hr>
+<h2 align="center"> 🔭 Current Stats</h2>
+<div align="center">
+  
+ ![AbdulKabir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Olokoburnfire&theme=rogue)
+    
+ ![AbdulKabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olokoburnfire&show_icons=true&theme=city_lights)
+    
+ ![AbdulKabir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olokoburnfire&theme=city-lights) 
+     
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olokoburnfire&theme=city_lights)
+
+</div>
+<!--Repositories -->
 <hr>
 
-<h2 align="center"> 🔭 Current Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-</p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
-
-
-
-
-
-
-
-
-
-
-<!---
-Olokoburnfire/Olokoburnfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
